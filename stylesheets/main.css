@@ -71,14 +71,14 @@ section {
 
 section.first {
 
-	background-image: url(forestrect.png);
+	background-image: url(images/forestrect.png);
 	background-size: auto 500px;
 	height: 470px;
 	
 }
 
 section.second {
-	background-image: url(vinerect.png);
+	background-image: url(images/vinerect.png);
 	background-size: auto 600px;
 	height: 460px;
 
